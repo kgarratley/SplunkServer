@@ -1,0 +1,12 @@
+[submodule "CM"]
+	path = CM
+	url = https://github.com/kgarratley/CM.git
+[submodule "SH"]
+	path = SH
+	url = https://github.com/kgarratley/SH.git
+[submodule "Deployer"]
+	path = Deployer
+	url = https://github.com/kgarratley/Deployer.git
+[submodule "DS"]
+	path = DS
+	url = https://github.com/kgarratley/DS.git
